@@ -1,3 +1,20 @@
+Convenience Updates
+===================
+
+Compiled executable binaries are available under bin for the following systems:
+* MacOS
+* RedHat 5/6
+
+Indexing scripts are available for easy cronjob setup for the following VCS:
+* Git
+* Perforce
+
+Credits
+=======
+
+Russ Cox rsc@swtch.com
+June 2015
+
 Code Search is a tool for indexing and then performing
 regular expression searches over large bodies of source code.
 It is a set of command-line programs written in Go.
@@ -13,6 +30,3 @@ To install:
 
 Use "go get -u" to update an existing installation.
 
-Russ Cox 
-rsc@swtch.com
-June 2015
